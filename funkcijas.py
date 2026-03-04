@@ -5,6 +5,8 @@ def ievade_datus():
     return cementu_daudzums, cementu_cena, smilsu_cena
 
 
-def aprekinat_materiali(Ievade_datus) 
+def aprekinat_materiali(Ievade_datus):
+    cementu_daudzums*0,5=udens_daudzums
+    cementu_daudzums*3=smilsu_daudzums
 def aprekinat_cenu(Ievade_datus, aprekinat_materiali)
 def aprekinat_masu(Ievade_datus, aprekinat_materiali)
